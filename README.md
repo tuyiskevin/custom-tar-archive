@@ -1,2 +1,2 @@
 # custom-tar-archive
-This is tar archive program that compresses directories and also help create in extracting existing one.
+This is tar archive program that compresses directories, extracting existing ones, print the file tree  structure of the tar file.
